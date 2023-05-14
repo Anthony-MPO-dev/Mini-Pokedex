@@ -1,14 +1,14 @@
-# Profile-card
+# Mini-Pokedex
 Mini-Pokedex | Listagem de Pokémons
 
 ## Screenshots
 
 Desktop:
 
-![Page Profile Card](dsrc/design/screen-desktop.png)
+![Page on Desktop](src/design/screen-desktop.png)
 
 <br>
 
 Mobile:
 
-![Page Profile Card Mobile](src/design/screen-mobile.png)
+![Page on Mobile](src/design/screen-mobile.png)
